@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayush Shrestha (KriousCodes)</h1>
-<h3 align="center">An intermediate indie game developer for Nepal 🇳🇵</h3>
+<h3 align="center">
+  An intermediate indie game developer for Nepal 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" width="20" />
+</h3>
 <p align="left"> <a href="https://twitter.com/kriouscodes" target="blank"><img src="https://img.shields.io/twitter/follow/kriouscodes?logo=twitter&style=for-the-badge" alt="kriouscodes" /></a> </p>
 
 - 🔭 I’m currently working on indie projects **Gods Rise**
