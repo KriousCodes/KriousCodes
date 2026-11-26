@@ -5,7 +5,7 @@
 </h3>
 <p align="left"> <a href="https://twitter.com/kriouscodes" target="blank"><img src="https://img.shields.io/twitter/follow/kriouscodes?logo=twitter&style=for-the-badge" alt="kriouscodes" /></a> </p>
 
-- 🔭 I’m currently working on indie projects **Gods Rise**
+- 🔭 I’m currently working on indie projects **Indie Survival Game**
 
 - 🌱 I’m currently learning **Advance C#**
 
